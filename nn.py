@@ -1,6 +1,6 @@
 import torch
 from torch_geometric.nn import GCNConv, GATv2Conv
-torch.functional.F
+
 class GraphAttentionNetwork(torch.nn.Module):
   def __init__(self, in_size, h_size,out_size, heads=8):
     super().__init__()
