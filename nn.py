@@ -1,5 +1,8 @@
 import torch
 from torch_geometric.nn import GCNConv, GATv2Conv
+import torch.nn.functional as F
+
+
 
 class GraphAttentionNetwork(torch.nn.Module):
   def __init__(self, in_size, h_size,out_size, heads=8):
@@ -14,13 +17,18 @@ class GraphAttentionNetwork(torch.nn.Module):
     return h, torch.nn.functional.log_softmax(h, dim=1)       
 
 class GraphConvolutionalNetwork(torch.nn.Module):
-  def __init__(self, in_size, h_size, out_size):
-    super().__init__()
-    self.gcn1 = GCNConv(in_size, h_size)
-    self.gcn2 = GCNConv(h_size, out_size)
-    
-  def forward(self, x, edge_index):
-    h = self.gcn1(h, edge_index)
-    h = torch.functional.ReLU(h)
-    h = self.gcn2(h, edge_index)
-    return h, torch.functional.log_softmax(h, dim=1)
+
+    def __init__(self, in_size, h_size,out_size):
+        super().__init__()
+        self.conv1 = GCNConv(in_size, h_size)
+        self.conv2 = GCNConv(h_size, out_size)
+
+    def forward(self, data):
+        x, edge_index = data.x, data.edge_index
+
+        x = self.conv1(x, edge_index)
+        x = F.relu(x)
+        x = F.dropout(x, training=self.training)
+        x = self.conv2(x, edge_index)
+
+        return F.log_softmax(x, dim=1)
