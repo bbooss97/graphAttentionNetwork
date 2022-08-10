@@ -108,14 +108,15 @@ class Trainer:
         # self.trainDataloader = DataLoader(self.dataset, batch_size=self.batchsize, shuffle=True)
         # self.testDataloader = DataLoader(self.testDataset, batch_size=self.batchsize, shuffle=True)
 
-type="gcn"
+type="gat"
 # wandb.init(project='NeuralNetworkProject', entity='bbooss97',name=type)
 # device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 device = torch.device('cpu')
 
 if type=="gcn":
     model=GraphConvolutionalNetwork(500,13,3)
-    # model=torch.nn.Linear(13,13)
+elif type=="gat":
+    model=GraphAttentionNetwork(500,13,3)
 
 model.to(device)
 # wandb.watch(model)
