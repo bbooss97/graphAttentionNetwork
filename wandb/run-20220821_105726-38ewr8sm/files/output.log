@@ -1,0 +1,12 @@
+name of dataset: cora(),number of classes: 7,number of nodes features: 1433,number of graphs: 1
+testing phase
+Traceback (most recent call last):
+  File "c:\Users\Andrea\Desktop\graphAttentionNetwork\train.py", line 123, in <module>
+    trainer.train()
+  File "c:\Users\Andrea\Desktop\graphAttentionNetwork\train.py", line 44, in train
+    self.test()
+  File "c:\Users\Andrea\Desktop\graphAttentionNetwork\train.py", line 71, in test
+    pred=F.log_softmax(pred, dim=1)
+  File "C:\Users\Andrea\AppData\Local\Programs\Python\Python39\lib\site-packages\torch\nn\functional.py", line 1907, in log_softmax
+    ret = input.log_softmax(dim)
+IndexError: Dimension out of range (expected to be in range of [-1, 0], but got 1)

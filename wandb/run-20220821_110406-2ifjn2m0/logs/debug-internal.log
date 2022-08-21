@@ -1,0 +1,61 @@
+2022-08-21 11:04:06,982 INFO    StreamThr :20120 [internal.py:wandb_internal():90] W&B internal server running at pid: 20120, started at: 2022-08-21 11:04:06.981732
+2022-08-21 11:04:06,989 DEBUG   HandlerThread:20120 [handler.py:handle_request():141] handle_request: status
+2022-08-21 11:04:06,994 DEBUG   SenderThread:20120 [sender.py:send_request():316] send_request: status
+2022-08-21 11:04:07,000 DEBUG   SenderThread:20120 [sender.py:send():302] send: header
+2022-08-21 11:04:07,001 INFO    WriterThread:20120 [datastore.py:open_for_write():75] open: C:\Users\Andrea\Desktop\graphAttentionNetwork\wandb\run-20220821_110406-2ifjn2m0\run-2ifjn2m0.wandb
+2022-08-21 11:04:07,045 DEBUG   SenderThread:20120 [sender.py:send():302] send: run
+2022-08-21 11:04:07,736 DEBUG   HandlerThread:20120 [handler.py:handle_request():141] handle_request: check_version
+2022-08-21 11:04:07,740 INFO    SenderThread:20120 [dir_watcher.py:__init__():216] watching files in: C:\Users\Andrea\Desktop\graphAttentionNetwork\wandb\run-20220821_110406-2ifjn2m0\files
+2022-08-21 11:04:07,740 INFO    SenderThread:20120 [sender.py:_start_run_threads():913] run started: 2ifjn2m0 with start time 1661072646.980732
+2022-08-21 11:04:07,740 DEBUG   SenderThread:20120 [sender.py:send():302] send: summary
+2022-08-21 11:04:07,741 INFO    SenderThread:20120 [sender.py:_save_file():1156] saving file wandb-summary.json with policy end
+2022-08-21 11:04:07,742 DEBUG   SenderThread:20120 [sender.py:send_request():316] send_request: check_version
+2022-08-21 11:04:07,956 DEBUG   HandlerThread:20120 [handler.py:handle_request():141] handle_request: run_start
+2022-08-21 11:04:07,977 DEBUG   HandlerThread:20120 [meta.py:__init__():35] meta init
+2022-08-21 11:04:07,978 DEBUG   HandlerThread:20120 [meta.py:__init__():50] meta init done
+2022-08-21 11:04:07,978 DEBUG   HandlerThread:20120 [meta.py:probe():216] probe
+2022-08-21 11:04:08,029 DEBUG   HandlerThread:20120 [meta.py:_setup_git():206] setup git
+2022-08-21 11:04:08,143 DEBUG   HandlerThread:20120 [meta.py:_setup_git():213] setup git done
+2022-08-21 11:04:08,143 DEBUG   HandlerThread:20120 [meta.py:_save_pip():54] save pip
+2022-08-21 11:04:08,145 DEBUG   HandlerThread:20120 [meta.py:_save_pip():68] save pip done
+2022-08-21 11:04:08,145 DEBUG   HandlerThread:20120 [meta.py:probe():254] probe done
+2022-08-21 11:04:08,348 DEBUG   SenderThread:20120 [sender.py:send():302] send: files
+2022-08-21 11:04:08,348 DEBUG   HandlerThread:20120 [handler.py:handle_request():141] handle_request: stop_status
+2022-08-21 11:04:08,349 INFO    SenderThread:20120 [sender.py:_save_file():1156] saving file wandb-metadata.json with policy now
+2022-08-21 11:04:08,351 DEBUG   SenderThread:20120 [sender.py:send_request():316] send_request: stop_status
+2022-08-21 11:04:08,596 DEBUG   SenderThread:20120 [sender.py:send():302] send: telemetry
+2022-08-21 11:04:08,597 DEBUG   SenderThread:20120 [sender.py:send():302] send: telemetry
+2022-08-21 11:04:08,749 INFO    Thread-22 :20120 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\Andrea\Desktop\graphAttentionNetwork\wandb\run-20220821_110406-2ifjn2m0\files\wandb-summary.json
+2022-08-21 11:04:08,749 INFO    Thread-22 :20120 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\Andrea\Desktop\graphAttentionNetwork\wandb\run-20220821_110406-2ifjn2m0\files\requirements.txt
+2022-08-21 11:04:08,750 INFO    Thread-22 :20120 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\Andrea\Desktop\graphAttentionNetwork\wandb\run-20220821_110406-2ifjn2m0\files\output.log
+2022-08-21 11:04:08,750 INFO    Thread-22 :20120 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\Andrea\Desktop\graphAttentionNetwork\wandb\run-20220821_110406-2ifjn2m0\files\wandb-metadata.json
+2022-08-21 11:04:09,041 INFO    Thread-28 :20120 [upload_job.py:push():138] Uploaded file C:\Users\Andrea\AppData\Local\Temp\tmpqirv0z9fwandb\31ph0g6e-wandb-metadata.json
+2022-08-21 11:04:10,767 INFO    Thread-22 :20120 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\Andrea\Desktop\graphAttentionNetwork\wandb\run-20220821_110406-2ifjn2m0\files\output.log
+2022-08-21 11:04:23,613 DEBUG   HandlerThread:20120 [handler.py:handle_request():141] handle_request: stop_status
+2022-08-21 11:04:23,613 DEBUG   SenderThread:20120 [sender.py:send_request():316] send_request: stop_status
+2022-08-21 11:04:38,864 DEBUG   HandlerThread:20120 [handler.py:handle_request():141] handle_request: stop_status
+2022-08-21 11:04:38,865 DEBUG   SenderThread:20120 [sender.py:send_request():316] send_request: stop_status
+2022-08-21 11:04:39,020 INFO    Thread-22 :20120 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\Andrea\Desktop\graphAttentionNetwork\wandb\run-20220821_110406-2ifjn2m0\files\config.yaml
+2022-08-21 11:04:39,184 DEBUG   SenderThread:20120 [sender.py:send():302] send: stats
+2022-08-21 11:04:54,140 DEBUG   HandlerThread:20120 [handler.py:handle_request():141] handle_request: stop_status
+2022-08-21 11:04:54,141 DEBUG   SenderThread:20120 [sender.py:send_request():316] send_request: stop_status
+2022-08-21 11:05:09,378 DEBUG   HandlerThread:20120 [handler.py:handle_request():141] handle_request: stop_status
+2022-08-21 11:05:09,379 DEBUG   SenderThread:20120 [sender.py:send_request():316] send_request: stop_status
+2022-08-21 11:05:12,640 DEBUG   SenderThread:20120 [sender.py:send():302] send: stats
+2022-08-21 11:05:24,637 DEBUG   HandlerThread:20120 [handler.py:handle_request():141] handle_request: stop_status
+2022-08-21 11:05:24,638 DEBUG   SenderThread:20120 [sender.py:send_request():316] send_request: stop_status
+2022-08-21 11:05:39,866 DEBUG   HandlerThread:20120 [handler.py:handle_request():141] handle_request: stop_status
+2022-08-21 11:05:39,866 DEBUG   SenderThread:20120 [sender.py:send_request():316] send_request: stop_status
+2022-08-21 11:05:46,069 DEBUG   SenderThread:20120 [sender.py:send():302] send: stats
+2022-08-21 11:05:55,114 DEBUG   HandlerThread:20120 [handler.py:handle_request():141] handle_request: stop_status
+2022-08-21 11:05:55,115 DEBUG   SenderThread:20120 [sender.py:send_request():316] send_request: stop_status
+2022-08-21 11:06:10,361 DEBUG   HandlerThread:20120 [handler.py:handle_request():141] handle_request: stop_status
+2022-08-21 11:06:10,362 DEBUG   SenderThread:20120 [sender.py:send_request():316] send_request: stop_status
+2022-08-21 11:06:19,439 DEBUG   SenderThread:20120 [sender.py:send():302] send: stats
+2022-08-21 11:06:27,313 DEBUG   HandlerThread:20120 [handler.py:handle_request():141] handle_request: stop_status
+2022-08-21 11:06:27,313 DEBUG   SenderThread:20120 [sender.py:send_request():316] send_request: stop_status
+2022-08-21 11:06:42,577 DEBUG   HandlerThread:20120 [handler.py:handle_request():141] handle_request: stop_status
+2022-08-21 11:06:42,578 DEBUG   SenderThread:20120 [sender.py:send_request():316] send_request: stop_status
+2022-08-21 11:06:52,788 DEBUG   SenderThread:20120 [sender.py:send():302] send: stats
+2022-08-21 11:06:57,837 DEBUG   HandlerThread:20120 [handler.py:handle_request():141] handle_request: stop_status
+2022-08-21 11:06:57,837 DEBUG   SenderThread:20120 [sender.py:send_request():316] send_request: stop_status

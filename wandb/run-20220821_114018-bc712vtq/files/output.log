@@ -1,0 +1,603 @@
+name of dataset: PPI(20),number of classes: 121,number of nodes features: 50,number of graphs: 20
+mean_loss_train tensor(0.7131)
+testing phase
+mean_loss_test tensor(0.6948) mean_accuracy_test: tensor(63.1060)
+mean_loss_train tensor(0.6991)
+testing phase
+mean_loss_test tensor(0.6906) mean_accuracy_test: tensor(64.7415)
+mean_loss_train tensor(0.6948)
+testing phase
+mean_loss_test tensor(0.6867) mean_accuracy_test: tensor(66.4415)
+mean_loss_train tensor(0.6907)
+testing phase
+mean_loss_test tensor(0.6828) mean_accuracy_test: tensor(68.0581)
+C:\Users\Andrea\AppData\Local\Programs\Python\Python39\lib\site-packages\torch\nn\functional.py:1944: UserWarning: nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.
+  warnings.warn("nn.functional.sigmoid is deprecated. Use torch.sigmoid instead.")
+mean_loss_train tensor(0.6866)
+testing phase
+mean_loss_test tensor(0.6790) mean_accuracy_test: tensor(69.6274)
+mean_loss_train tensor(0.6826)
+testing phase
+mean_loss_test tensor(0.6753) mean_accuracy_test: tensor(71.3094)
+mean_loss_train tensor(0.6787)
+testing phase
+mean_loss_test tensor(0.6716) mean_accuracy_test: tensor(72.9659)
+mean_loss_train tensor(0.6747)
+testing phase
+mean_loss_test tensor(0.6678) mean_accuracy_test: tensor(74.5890)
+mean_loss_train tensor(0.6707)
+testing phase
+mean_loss_test tensor(0.6640) mean_accuracy_test: tensor(76.1619)
+mean_loss_train tensor(0.6667)
+testing phase
+mean_loss_test tensor(0.6602) mean_accuracy_test: tensor(77.6638)
+mean_loss_train tensor(0.6626)
+testing phase
+mean_loss_test tensor(0.6564) mean_accuracy_test: tensor(78.9688)
+mean_loss_train tensor(0.6584)
+testing phase
+mean_loss_test tensor(0.6525) mean_accuracy_test: tensor(80.1990)
+mean_loss_train tensor(0.6542)
+testing phase
+mean_loss_test tensor(0.6485) mean_accuracy_test: tensor(81.2476)
+mean_loss_train tensor(0.6499)
+testing phase
+mean_loss_test tensor(0.6445) mean_accuracy_test: tensor(82.0254)
+mean_loss_train tensor(0.6455)
+testing phase
+mean_loss_test tensor(0.6404) mean_accuracy_test: tensor(82.6885)
+mean_loss_train tensor(0.6411)
+testing phase
+mean_loss_test tensor(0.6364) mean_accuracy_test: tensor(83.2338)
+mean_loss_train tensor(0.6366)
+testing phase
+mean_loss_test tensor(0.6323) mean_accuracy_test: tensor(83.7168)
+mean_loss_train tensor(0.6321)
+testing phase
+mean_loss_test tensor(0.6282) mean_accuracy_test: tensor(84.0893)
+mean_loss_train tensor(0.6275)
+testing phase
+mean_loss_test tensor(0.6242) mean_accuracy_test: tensor(84.3515)
+mean_loss_train tensor(0.6230)
+testing phase
+mean_loss_test tensor(0.6203) mean_accuracy_test: tensor(84.6071)
+mean_loss_train tensor(0.6185)
+testing phase
+mean_loss_test tensor(0.6165) mean_accuracy_test: tensor(84.7734)
+mean_loss_train tensor(0.6140)
+testing phase
+mean_loss_test tensor(0.6129) mean_accuracy_test: tensor(84.8947)
+mean_loss_train tensor(0.6097)
+testing phase
+mean_loss_test tensor(0.6095) mean_accuracy_test: tensor(85.0247)
+mean_loss_train tensor(0.6055)
+testing phase
+mean_loss_test tensor(0.6063) mean_accuracy_test: tensor(85.1314)
+mean_loss_train tensor(0.6014)
+testing phase
+mean_loss_test tensor(0.6034) mean_accuracy_test: tensor(85.2288)
+mean_loss_train tensor(0.5976)
+testing phase
+mean_loss_test tensor(0.6009) mean_accuracy_test: tensor(85.2854)
+mean_loss_train tensor(0.5940)
+testing phase
+mean_loss_test tensor(0.5986) mean_accuracy_test: tensor(85.4118)
+mean_loss_train tensor(0.5907)
+testing phase
+mean_loss_test tensor(0.5968) mean_accuracy_test: tensor(85.4902)
+mean_loss_train tensor(0.5877)
+testing phase
+mean_loss_test tensor(0.5953) mean_accuracy_test: tensor(85.5359)
+mean_loss_train tensor(0.5849)
+testing phase
+mean_loss_test tensor(0.5941) mean_accuracy_test: tensor(85.5911)
+mean_loss_train tensor(0.5824)
+testing phase
+mean_loss_test tensor(0.5931) mean_accuracy_test: tensor(85.6340)
+mean_loss_train tensor(0.5802)
+testing phase
+mean_loss_test tensor(0.5924) mean_accuracy_test: tensor(85.6863)
+mean_loss_train tensor(0.5782)
+testing phase
+mean_loss_test tensor(0.5918) mean_accuracy_test: tensor(85.7102)
+mean_loss_train tensor(0.5763)
+testing phase
+mean_loss_test tensor(0.5912) mean_accuracy_test: tensor(85.7415)
+mean_loss_train tensor(0.5746)
+testing phase
+mean_loss_test tensor(0.5906) mean_accuracy_test: tensor(85.7778)
+mean_loss_train tensor(0.5729)
+testing phase
+mean_loss_test tensor(0.5901) mean_accuracy_test: tensor(85.8039)
+mean_loss_train tensor(0.5713)
+testing phase
+mean_loss_test tensor(0.5895) mean_accuracy_test: tensor(85.8221)
+mean_loss_train tensor(0.5698)
+testing phase
+mean_loss_test tensor(0.5888) mean_accuracy_test: tensor(85.8301)
+mean_loss_train tensor(0.5683)
+testing phase
+mean_loss_test tensor(0.5881) mean_accuracy_test: tensor(85.8439)
+mean_loss_train tensor(0.5668)
+testing phase
+mean_loss_test tensor(0.5874) mean_accuracy_test: tensor(85.8497)
+mean_loss_train tensor(0.5653)
+testing phase
+mean_loss_test tensor(0.5867) mean_accuracy_test: tensor(85.8627)
+mean_loss_train tensor(0.5640)
+testing phase
+mean_loss_test tensor(0.5859) mean_accuracy_test: tensor(85.8555)
+mean_loss_train tensor(0.5626)
+testing phase
+mean_loss_test tensor(0.5853) mean_accuracy_test: tensor(85.8794)
+mean_loss_train tensor(0.5613)
+testing phase
+mean_loss_test tensor(0.5846) mean_accuracy_test: tensor(85.9005)
+mean_loss_train tensor(0.5601)
+testing phase
+mean_loss_test tensor(0.5840) mean_accuracy_test: tensor(85.8773)
+mean_loss_train tensor(0.5590)
+testing phase
+mean_loss_test tensor(0.5834) mean_accuracy_test: tensor(85.8758)
+mean_loss_train tensor(0.5579)
+testing phase
+mean_loss_test tensor(0.5829) mean_accuracy_test: tensor(85.8707)
+mean_loss_train tensor(0.5568)
+testing phase
+mean_loss_test tensor(0.5824) mean_accuracy_test: tensor(85.8794)
+mean_loss_train tensor(0.5559)
+testing phase
+mean_loss_test tensor(0.5820) mean_accuracy_test: tensor(85.8947)
+mean_loss_train tensor(0.5549)
+testing phase
+mean_loss_test tensor(0.5816) mean_accuracy_test: tensor(85.8700)
+mean_loss_train tensor(0.5540)
+testing phase
+mean_loss_test tensor(0.5813) mean_accuracy_test: tensor(85.8584)
+mean_loss_train tensor(0.5531)
+testing phase
+mean_loss_test tensor(0.5810) mean_accuracy_test: tensor(85.8555)
+mean_loss_train tensor(0.5523)
+testing phase
+mean_loss_test tensor(0.5807) mean_accuracy_test: tensor(85.8540)
+mean_loss_train tensor(0.5514)
+testing phase
+mean_loss_test tensor(0.5804) mean_accuracy_test: tensor(85.8758)
+mean_loss_train tensor(0.5506)
+testing phase
+mean_loss_test tensor(0.5802) mean_accuracy_test: tensor(85.8824)
+mean_loss_train tensor(0.5498)
+testing phase
+mean_loss_test tensor(0.5800) mean_accuracy_test: tensor(85.8896)
+mean_loss_train tensor(0.5490)
+testing phase
+mean_loss_test tensor(0.5797) mean_accuracy_test: tensor(85.9070)
+mean_loss_train tensor(0.5482)
+testing phase
+mean_loss_test tensor(0.5795) mean_accuracy_test: tensor(85.9245)
+mean_loss_train tensor(0.5474)
+testing phase
+mean_loss_test tensor(0.5793) mean_accuracy_test: tensor(85.9426)
+mean_loss_train tensor(0.5467)
+testing phase
+mean_loss_test tensor(0.5791) mean_accuracy_test: tensor(85.9441)
+mean_loss_train tensor(0.5459)
+testing phase
+mean_loss_test tensor(0.5789) mean_accuracy_test: tensor(85.9586)
+mean_loss_train tensor(0.5451)
+testing phase
+mean_loss_test tensor(0.5787) mean_accuracy_test: tensor(85.9862)
+mean_loss_train tensor(0.5444)
+testing phase
+mean_loss_test tensor(0.5785) mean_accuracy_test: tensor(86.0116)
+mean_loss_train tensor(0.5436)
+testing phase
+mean_loss_test tensor(0.5782) mean_accuracy_test: tensor(86.0385)
+mean_loss_train tensor(0.5428)
+testing phase
+mean_loss_test tensor(0.5780) mean_accuracy_test: tensor(86.0835)
+mean_loss_train tensor(0.5421)
+testing phase
+mean_loss_test tensor(0.5778) mean_accuracy_test: tensor(86.1082)
+mean_loss_train tensor(0.5414)
+testing phase
+mean_loss_test tensor(0.5775) mean_accuracy_test: tensor(86.1394)
+mean_loss_train tensor(0.5406)
+testing phase
+mean_loss_test tensor(0.5772) mean_accuracy_test: tensor(86.1816)
+mean_loss_train tensor(0.5399)
+testing phase
+mean_loss_test tensor(0.5769) mean_accuracy_test: tensor(86.2121)
+mean_loss_train tensor(0.5391)
+testing phase
+mean_loss_test tensor(0.5766) mean_accuracy_test: tensor(86.2346)
+mean_loss_train tensor(0.5384)
+testing phase
+mean_loss_test tensor(0.5763) mean_accuracy_test: tensor(86.2680)
+mean_loss_train tensor(0.5376)
+testing phase
+mean_loss_test tensor(0.5759) mean_accuracy_test: tensor(86.2854)
+mean_loss_train tensor(0.5369)
+testing phase
+mean_loss_test tensor(0.5755) mean_accuracy_test: tensor(86.3188)
+mean_loss_train tensor(0.5361)
+testing phase
+mean_loss_test tensor(0.5751) mean_accuracy_test: tensor(86.3399)
+mean_loss_train tensor(0.5353)
+testing phase
+mean_loss_test tensor(0.5747) mean_accuracy_test: tensor(86.3704)
+mean_loss_train tensor(0.5345)
+testing phase
+mean_loss_test tensor(0.5743) mean_accuracy_test: tensor(86.3987)
+mean_loss_train tensor(0.5338)
+testing phase
+mean_loss_test tensor(0.5739) mean_accuracy_test: tensor(86.4234)
+mean_loss_train tensor(0.5330)
+testing phase
+mean_loss_test tensor(0.5734) mean_accuracy_test: tensor(86.4575)
+mean_loss_train tensor(0.5322)
+testing phase
+mean_loss_test tensor(0.5729) mean_accuracy_test: tensor(86.4829)
+mean_loss_train tensor(0.5313)
+testing phase
+mean_loss_test tensor(0.5725) mean_accuracy_test: tensor(86.5149)
+mean_loss_train tensor(0.5305)
+testing phase
+mean_loss_test tensor(0.5720) mean_accuracy_test: tensor(86.5534)
+mean_loss_train tensor(0.5297)
+testing phase
+mean_loss_test tensor(0.5715) mean_accuracy_test: tensor(86.5795)
+mean_loss_train tensor(0.5288)
+testing phase
+mean_loss_test tensor(0.5710) mean_accuracy_test: tensor(86.5962)
+mean_loss_train tensor(0.5279)
+testing phase
+mean_loss_test tensor(0.5704) mean_accuracy_test: tensor(86.6057)
+mean_loss_train tensor(0.5271)
+testing phase
+mean_loss_test tensor(0.5699) mean_accuracy_test: tensor(86.6071)
+mean_loss_train tensor(0.5262)
+testing phase
+mean_loss_test tensor(0.5693) mean_accuracy_test: tensor(86.6500)
+mean_loss_train tensor(0.5252)
+testing phase
+mean_loss_test tensor(0.5687) mean_accuracy_test: tensor(86.6630)
+mean_loss_train tensor(0.5243)
+testing phase
+mean_loss_test tensor(0.5682) mean_accuracy_test: tensor(86.6776)
+mean_loss_train tensor(0.5234)
+testing phase
+mean_loss_test tensor(0.5676) mean_accuracy_test: tensor(86.7168)
+mean_loss_train tensor(0.5224)
+testing phase
+mean_loss_test tensor(0.5670) mean_accuracy_test: tensor(86.7553)
+mean_loss_train tensor(0.5214)
+testing phase
+mean_loss_test tensor(0.5663) mean_accuracy_test: tensor(86.7691)
+mean_loss_train tensor(0.5204)
+testing phase
+mean_loss_test tensor(0.5657) mean_accuracy_test: tensor(86.7996)
+mean_loss_train tensor(0.5194)
+testing phase
+mean_loss_test tensor(0.5651) mean_accuracy_test: tensor(86.8148)
+mean_loss_train tensor(0.5184)
+testing phase
+mean_loss_test tensor(0.5645) mean_accuracy_test: tensor(86.8410)
+mean_loss_train tensor(0.5173)
+testing phase
+mean_loss_test tensor(0.5638) mean_accuracy_test: tensor(86.8991)
+mean_loss_train tensor(0.5162)
+testing phase
+mean_loss_test tensor(0.5632) mean_accuracy_test: tensor(86.9601)
+mean_loss_train tensor(0.5151)
+testing phase
+mean_loss_test tensor(0.5625) mean_accuracy_test: tensor(87.0261)
+mean_loss_train tensor(0.5140)
+testing phase
+mean_loss_test tensor(0.5619) mean_accuracy_test: tensor(87.1017)
+mean_loss_train tensor(0.5129)
+testing phase
+mean_loss_test tensor(0.5612) mean_accuracy_test: tensor(87.1511)
+mean_loss_train tensor(0.5117)
+testing phase
+mean_loss_test tensor(0.5605) mean_accuracy_test: tensor(87.2288)
+mean_loss_train tensor(0.5106)
+testing phase
+mean_loss_test tensor(0.5598) mean_accuracy_test: tensor(87.2781)
+mean_loss_train tensor(0.5094)
+testing phase
+mean_loss_test tensor(0.5591) mean_accuracy_test: tensor(87.3580)
+mean_loss_train tensor(0.5083)
+testing phase
+mean_loss_test tensor(0.5583) mean_accuracy_test: tensor(87.4089)
+mean_loss_train tensor(0.5071)
+testing phase
+mean_loss_test tensor(0.5576) mean_accuracy_test: tensor(87.4662)
+mean_loss_train tensor(0.5060)
+testing phase
+mean_loss_test tensor(0.5569) mean_accuracy_test: tensor(87.5425)
+mean_loss_train tensor(0.5049)
+testing phase
+mean_loss_test tensor(0.5561) mean_accuracy_test: tensor(87.6064)
+mean_loss_train tensor(0.5038)
+testing phase
+mean_loss_test tensor(0.5553) mean_accuracy_test: tensor(87.6776)
+mean_loss_train tensor(0.5027)
+testing phase
+mean_loss_test tensor(0.5545) mean_accuracy_test: tensor(87.7792)
+mean_loss_train tensor(0.5015)
+testing phase
+mean_loss_test tensor(0.5537) mean_accuracy_test: tensor(87.8221)
+mean_loss_train tensor(0.5004)
+testing phase
+mean_loss_test tensor(0.5529) mean_accuracy_test: tensor(87.8736)
+mean_loss_train tensor(0.4993)
+testing phase
+mean_loss_test tensor(0.5522) mean_accuracy_test: tensor(87.9434)
+mean_loss_train tensor(0.4982)
+testing phase
+mean_loss_test tensor(0.5514) mean_accuracy_test: tensor(88.0036)
+mean_loss_train tensor(0.4972)
+testing phase
+mean_loss_test tensor(0.5507) mean_accuracy_test: tensor(88.0646)
+mean_loss_train tensor(0.4961)
+testing phase
+mean_loss_test tensor(0.5501) mean_accuracy_test: tensor(88.1227)
+mean_loss_train tensor(0.4951)
+testing phase
+mean_loss_test tensor(0.5495) mean_accuracy_test: tensor(88.1743)
+mean_loss_train tensor(0.4941)
+testing phase
+mean_loss_test tensor(0.5489) mean_accuracy_test: tensor(88.2142)
+mean_loss_train tensor(0.4930)
+testing phase
+mean_loss_test tensor(0.5483) mean_accuracy_test: tensor(88.2738)
+mean_loss_train tensor(0.4920)
+testing phase
+mean_loss_test tensor(0.5478) mean_accuracy_test: tensor(88.3391)
+mean_loss_train tensor(0.4910)
+testing phase
+mean_loss_test tensor(0.5473) mean_accuracy_test: tensor(88.3762)
+mean_loss_train tensor(0.4899)
+testing phase
+mean_loss_test tensor(0.5468) mean_accuracy_test: tensor(88.4161)
+mean_loss_train tensor(0.4889)
+testing phase
+mean_loss_test tensor(0.5463) mean_accuracy_test: tensor(88.4553)
+mean_loss_train tensor(0.4879)
+testing phase
+mean_loss_test tensor(0.5459) mean_accuracy_test: tensor(88.4938)
+mean_loss_train tensor(0.4869)
+testing phase
+mean_loss_test tensor(0.5455) mean_accuracy_test: tensor(88.5105)
+mean_loss_train tensor(0.4859)
+testing phase
+mean_loss_test tensor(0.5450) mean_accuracy_test: tensor(88.5468)
+mean_loss_train tensor(0.4849)
+testing phase
+mean_loss_test tensor(0.5446) mean_accuracy_test: tensor(88.6042)
+mean_loss_train tensor(0.4839)
+testing phase
+mean_loss_test tensor(0.5442) mean_accuracy_test: tensor(88.6492)
+mean_loss_train tensor(0.4830)
+testing phase
+mean_loss_test tensor(0.5439) mean_accuracy_test: tensor(88.6783)
+mean_loss_train tensor(0.4820)
+testing phase
+mean_loss_test tensor(0.5435) mean_accuracy_test: tensor(88.7001)
+mean_loss_train tensor(0.4810)
+testing phase
+mean_loss_test tensor(0.5431) mean_accuracy_test: tensor(88.7480)
+mean_loss_train tensor(0.4801)
+testing phase
+mean_loss_test tensor(0.5428) mean_accuracy_test: tensor(88.8076)
+mean_loss_train tensor(0.4791)
+testing phase
+mean_loss_test tensor(0.5424) mean_accuracy_test: tensor(88.8439)
+mean_loss_train tensor(0.4782)
+testing phase
+mean_loss_test tensor(0.5420) mean_accuracy_test: tensor(88.8809)
+mean_loss_train tensor(0.4772)
+testing phase
+mean_loss_test tensor(0.5416) mean_accuracy_test: tensor(88.8729)
+mean_loss_train tensor(0.4763)
+testing phase
+mean_loss_test tensor(0.5412) mean_accuracy_test: tensor(88.8860)
+mean_loss_train tensor(0.4753)
+testing phase
+mean_loss_test tensor(0.5409) mean_accuracy_test: tensor(88.9107)
+mean_loss_train tensor(0.4744)
+testing phase
+mean_loss_test tensor(0.5405) mean_accuracy_test: tensor(88.9310)
+mean_loss_train tensor(0.4734)
+testing phase
+mean_loss_test tensor(0.5402) mean_accuracy_test: tensor(88.9826)
+mean_loss_train tensor(0.4725)
+testing phase
+mean_loss_test tensor(0.5399) mean_accuracy_test: tensor(89.0131)
+mean_loss_train tensor(0.4716)
+testing phase
+mean_loss_test tensor(0.5395) mean_accuracy_test: tensor(89.0516)
+mean_loss_train tensor(0.4706)
+testing phase
+mean_loss_test tensor(0.5392) mean_accuracy_test: tensor(89.0712)
+mean_loss_train tensor(0.4697)
+testing phase
+mean_loss_test tensor(0.5390) mean_accuracy_test: tensor(89.1184)
+mean_loss_train tensor(0.4688)
+testing phase
+mean_loss_test tensor(0.5387) mean_accuracy_test: tensor(89.1452)
+mean_loss_train tensor(0.4678)
+testing phase
+mean_loss_test tensor(0.5384) mean_accuracy_test: tensor(89.1714)
+mean_loss_train tensor(0.4669)
+testing phase
+mean_loss_test tensor(0.5382) mean_accuracy_test: tensor(89.1866)
+mean_loss_train tensor(0.4660)
+testing phase
+mean_loss_test tensor(0.5379) mean_accuracy_test: tensor(89.2012)
+mean_loss_train tensor(0.4650)
+testing phase
+mean_loss_test tensor(0.5376) mean_accuracy_test: tensor(89.2128)
+mean_loss_train tensor(0.4641)
+testing phase
+mean_loss_test tensor(0.5373) mean_accuracy_test: tensor(89.2171)
+mean_loss_train tensor(0.4632)
+testing phase
+mean_loss_test tensor(0.5370) mean_accuracy_test: tensor(89.2527)
+mean_loss_train tensor(0.4622)
+testing phase
+mean_loss_test tensor(0.5368) mean_accuracy_test: tensor(89.2658)
+mean_loss_train tensor(0.4613)
+testing phase
+mean_loss_test tensor(0.5364) mean_accuracy_test: tensor(89.3188)
+mean_loss_train tensor(0.4604)
+testing phase
+mean_loss_test tensor(0.5365) mean_accuracy_test: tensor(89.3217)
+mean_loss_train tensor(0.4595)
+testing phase
+mean_loss_test tensor(0.5356) mean_accuracy_test: tensor(89.4270)
+mean_loss_train tensor(0.4587)
+testing phase
+mean_loss_test tensor(0.5371) mean_accuracy_test: tensor(89.2578)
+mean_loss_train tensor(0.4581)
+testing phase
+mean_loss_test tensor(0.5350) mean_accuracy_test: tensor(89.5120)
+mean_loss_train tensor(0.4571)
+testing phase
+mean_loss_test tensor(0.5353) mean_accuracy_test: tensor(89.4452)
+mean_loss_train tensor(0.4560)
+testing phase
+mean_loss_test tensor(0.5361) mean_accuracy_test: tensor(89.3145)
+mean_loss_train tensor(0.4554)
+testing phase
+mean_loss_test tensor(0.5345) mean_accuracy_test: tensor(89.5766)
+mean_loss_train tensor(0.4545)
+testing phase
+mean_loss_test tensor(0.5346) mean_accuracy_test: tensor(89.5287)
+mean_loss_train tensor(0.4536)
+testing phase
+mean_loss_test tensor(0.5356) mean_accuracy_test: tensor(89.3856)
+mean_loss_train tensor(0.4530)
+testing phase
+mean_loss_test tensor(0.5342) mean_accuracy_test: tensor(89.5940)
+mean_loss_train tensor(0.4520)
+testing phase
+mean_loss_test tensor(0.5341) mean_accuracy_test: tensor(89.5955)
+mean_loss_train tensor(0.4512)
+testing phase
+mean_loss_test tensor(0.5352) mean_accuracy_test: tensor(89.4328)
+mean_loss_train tensor(0.4506)
+testing phase
+mean_loss_test tensor(0.5341) mean_accuracy_test: tensor(89.6020)
+mean_loss_train tensor(0.4496)
+testing phase
+mean_loss_test tensor(0.5339) mean_accuracy_test: tensor(89.6703)
+mean_loss_train tensor(0.4489)
+testing phase
+mean_loss_test tensor(0.5350) mean_accuracy_test: tensor(89.5142)
+mean_loss_train tensor(0.4482)
+testing phase
+mean_loss_test tensor(0.5341) mean_accuracy_test: tensor(89.6725)
+mean_loss_train tensor(0.4473)
+testing phase
+mean_loss_test tensor(0.5339) mean_accuracy_test: tensor(89.7088)
+mean_loss_train tensor(0.4466)
+testing phase
+mean_loss_test tensor(0.5348) mean_accuracy_test: tensor(89.5715)
+mean_loss_train tensor(0.4459)
+testing phase
+mean_loss_test tensor(0.5340) mean_accuracy_test: tensor(89.6812)
+mean_loss_train tensor(0.4450)
+testing phase
+mean_loss_test tensor(0.5338) mean_accuracy_test: tensor(89.7306)
+mean_loss_train tensor(0.4443)
+testing phase
+mean_loss_test tensor(0.5346) mean_accuracy_test: tensor(89.6042)
+mean_loss_train tensor(0.4436)
+testing phase
+mean_loss_test tensor(0.5339) mean_accuracy_test: tensor(89.7175)
+mean_loss_train tensor(0.4428)
+testing phase
+mean_loss_test tensor(0.5340) mean_accuracy_test: tensor(89.7182)
+mean_loss_train tensor(0.4420)
+testing phase
+mean_loss_test tensor(0.5346) mean_accuracy_test: tensor(89.6492)
+mean_loss_train tensor(0.4413)
+testing phase
+mean_loss_test tensor(0.5338) mean_accuracy_test: tensor(89.7633)
+mean_loss_train tensor(0.4406)
+testing phase
+mean_loss_test tensor(0.5342) mean_accuracy_test: tensor(89.7277)
+mean_loss_train tensor(0.4398)
+testing phase
+mean_loss_test tensor(0.5343) mean_accuracy_test: tensor(89.7102)
+mean_loss_train tensor(0.4390)
+testing phase
+mean_loss_test tensor(0.5339) mean_accuracy_test: tensor(89.7952)
+mean_loss_train tensor(0.4383)
+testing phase
+mean_loss_test tensor(0.5346) mean_accuracy_test: tensor(89.7146)
+mean_loss_train tensor(0.4376)
+testing phase
+mean_loss_test tensor(0.5340) mean_accuracy_test: tensor(89.8148)
+mean_loss_train tensor(0.4368)
+testing phase
+mean_loss_test tensor(0.5343) mean_accuracy_test: tensor(89.7879)
+mean_loss_train tensor(0.4360)
+testing phase
+mean_loss_test tensor(0.5345) mean_accuracy_test: tensor(89.7850)
+mean_loss_train tensor(0.4353)
+testing phase
+mean_loss_test tensor(0.5342) mean_accuracy_test: tensor(89.8562)
+mean_loss_train tensor(0.4346)
+testing phase
+mean_loss_test tensor(0.5349) mean_accuracy_test: tensor(89.7618)
+mean_loss_train tensor(0.4339)
+testing phase
+mean_loss_test tensor(0.5343) mean_accuracy_test: tensor(89.8671)
+mean_loss_train tensor(0.4332)
+testing phase
+mean_loss_test tensor(0.5353) mean_accuracy_test: tensor(89.7458)
+mean_loss_train tensor(0.4325)
+testing phase
+mean_loss_test tensor(0.5344) mean_accuracy_test: tensor(89.8773)
+mean_loss_train tensor(0.4317)
+testing phase
+mean_loss_test tensor(0.5355) mean_accuracy_test: tensor(89.7574)
+mean_loss_train tensor(0.4310)
+testing phase
+mean_loss_test tensor(0.5345) mean_accuracy_test: tensor(89.8802)
+mean_loss_train tensor(0.4303)
+testing phase
+mean_loss_test tensor(0.5354) mean_accuracy_test: tensor(89.7712)
+mean_loss_train tensor(0.4295)
+testing phase
+mean_loss_test tensor(0.5347) mean_accuracy_test: tensor(89.8649)
+mean_loss_train tensor(0.4288)
+testing phase
+mean_loss_test tensor(0.5353) mean_accuracy_test: tensor(89.8228)
+mean_loss_train tensor(0.4280)
+testing phase
+mean_loss_test tensor(0.5352) mean_accuracy_test: tensor(89.8519)
+mean_loss_train tensor(0.4273)
+testing phase
+mean_loss_test tensor(0.5354) mean_accuracy_test: tensor(89.8540)
+mean_loss_train tensor(0.4266)
+testing phase
+mean_loss_test tensor(0.5357) mean_accuracy_test: tensor(89.8482)
+mean_loss_train tensor(0.4259)
+testing phase
+mean_loss_test tensor(0.5358) mean_accuracy_test: tensor(89.8533)
+mean_loss_train tensor(0.4252)
+testing phase
+mean_loss_test tensor(0.5364) mean_accuracy_test: tensor(89.7923)
+mean_loss_train tensor(0.4245)
+testing phase
+mean_loss_test tensor(0.5360) mean_accuracy_test: tensor(89.9129)
+mean_loss_train tensor(0.4239)
+testing phase
+mean_loss_test tensor(0.5379) mean_accuracy_test: tensor(89.6674)
+mean_loss_train tensor(0.4235)
+testing phase
+mean_loss_test tensor(0.5367) mean_accuracy_test: tensor(90.0472)
