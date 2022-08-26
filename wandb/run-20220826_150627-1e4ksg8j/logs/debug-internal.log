@@ -1,0 +1,6 @@
+2022-08-26 15:06:33,772 INFO    StreamThr :3752 [internal.py:wandb_internal():90] W&B internal server running at pid: 3752, started at: 2022-08-26 15:06:33.770893
+2022-08-26 15:06:33,779 DEBUG   HandlerThread:3752 [handler.py:handle_request():141] handle_request: status
+2022-08-26 15:06:33,786 DEBUG   SenderThread:3752 [sender.py:send_request():316] send_request: status
+2022-08-26 15:06:33,791 DEBUG   SenderThread:3752 [sender.py:send():302] send: header
+2022-08-26 15:06:33,792 INFO    WriterThread:3752 [datastore.py:open_for_write():75] open: c:\Users\Andrea\Desktop\graphAttentionNetwork\wandb\run-20220826_150627-1e4ksg8j\run-1e4ksg8j.wandb
+2022-08-26 15:06:33,792 DEBUG   SenderThread:3752 [sender.py:send():302] send: run

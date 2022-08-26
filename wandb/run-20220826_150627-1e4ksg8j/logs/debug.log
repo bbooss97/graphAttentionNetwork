@@ -1,0 +1,152 @@
+2022-08-26 15:06:27,583 INFO    MainThread:9844 [wandb_setup.py:_flush():76] Configure stats pid to 9844
+2022-08-26 15:06:27,583 INFO    MainThread:9844 [wandb_setup.py:_flush():76] Loading settings from C:\Users\Andrea\.config\wandb\settings
+2022-08-26 15:06:27,584 INFO    MainThread:9844 [wandb_setup.py:_flush():76] Loading settings from c:\Users\Andrea\Desktop\graphAttentionNetwork\wandb\settings
+2022-08-26 15:06:27,584 INFO    MainThread:9844 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'_require_service': 'True'}
+2022-08-26 15:06:27,584 INFO    MainThread:9844 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2022-08-26 15:06:27,584 INFO    MainThread:9844 [wandb_init.py:_log_setup():461] Logging user logs to c:\Users\Andrea\Desktop\graphAttentionNetwork\wandb\run-20220826_150627-1e4ksg8j\logs\debug.log
+2022-08-26 15:06:27,608 INFO    MainThread:9844 [wandb_init.py:_log_setup():462] Logging internal logs to c:\Users\Andrea\Desktop\graphAttentionNetwork\wandb\run-20220826_150627-1e4ksg8j\logs\debug-internal.log
+2022-08-26 15:06:27,609 INFO    MainThread:9844 [wandb_init.py:_jupyter_setup():411] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000025CA5CD9700>
+2022-08-26 15:06:27,609 INFO    MainThread:9844 [wandb_init.py:init():495] calling init triggers
+2022-08-26 15:06:27,611 INFO    MainThread:9844 [wandb_init.py:init():498] wandb.init called with sweep_config: {}
+config: {}
+2022-08-26 15:06:27,612 INFO    MainThread:9844 [wandb_init.py:init():514] re-initializing run, found existing run on stack: 2c2leky5
+2022-08-26 15:06:27,613 INFO    MainThread:9844 [wandb_run.py:_finish():1728] finishing run bbooss97/graphAttentionNetwork/2c2leky5
+2022-08-26 15:06:27,614 INFO    MainThread:9844 [wandb_run.py:_atexit_cleanup():1931] got exitcode: 0
+2022-08-26 15:06:27,614 INFO    MainThread:9844 [wandb_run.py:_restore():1914] restore
+2022-08-26 15:06:27,614 INFO    MainThread:9844 [wandb_run.py:_restore():1920] restore done
+2022-08-26 15:06:27,621 INFO    MainThread:9844 [wandb_run.py:_on_finish():2221] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 796
+  total_bytes: 796
+}
+
+2022-08-26 15:06:28,020 INFO    MainThread:9844 [wandb_run.py:_on_finish():2221] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 796
+  total_bytes: 796
+}
+
+2022-08-26 15:06:29,452 INFO    MainThread:9844 [wandb_run.py:_on_finish():2221] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 796
+  total_bytes: 796
+}
+
+2022-08-26 15:06:29,762 INFO    MainThread:9844 [wandb_run.py:_on_finish():2221] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 796
+  total_bytes: 35710
+}
+
+2022-08-26 15:06:29,875 INFO    MainThread:9844 [wandb_run.py:_on_finish():2221] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 796
+  total_bytes: 35710
+}
+
+2022-08-26 15:06:29,986 INFO    MainThread:9844 [wandb_run.py:_on_finish():2221] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 796
+  total_bytes: 35710
+}
+
+2022-08-26 15:06:30,095 INFO    MainThread:9844 [wandb_run.py:_on_finish():2221] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 796
+  total_bytes: 35710
+}
+
+2022-08-26 15:06:30,205 INFO    MainThread:9844 [wandb_run.py:_on_finish():2221] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 23414
+  total_bytes: 35710
+}
+
+2022-08-26 15:06:30,318 INFO    MainThread:9844 [wandb_run.py:_on_finish():2221] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 35710
+  total_bytes: 35710
+}
+
+2022-08-26 15:06:30,425 INFO    MainThread:9844 [wandb_run.py:_on_finish():2221] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 35710
+  total_bytes: 35710
+}
+
+2022-08-26 15:06:30,536 INFO    MainThread:9844 [wandb_run.py:_on_finish():2221] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 35710
+  total_bytes: 35710
+}
+
+2022-08-26 15:06:30,647 INFO    MainThread:9844 [wandb_run.py:_on_finish():2221] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 35710
+  total_bytes: 35710
+}
+
+2022-08-26 15:06:30,758 INFO    MainThread:9844 [wandb_run.py:_on_finish():2221] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 35710
+  total_bytes: 35710
+}
+
+2022-08-26 15:06:30,994 INFO    MainThread:9844 [wandb_run.py:_on_finish():2221] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 35710
+  total_bytes: 35710
+}
+
+2022-08-26 15:06:31,641 INFO    MainThread:9844 [wandb_run.py:_on_finish():2221] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 35710
+  total_bytes: 35710
+}
+local_info {
+}
+
+2022-08-26 15:06:32,762 INFO    MainThread:9844 [wandb_run.py:_footer_history_summary_info():3305] rendering history
+2022-08-26 15:06:32,763 INFO    MainThread:9844 [wandb_run.py:_footer_history_summary_info():3337] rendering summary
+2022-08-26 15:06:32,770 INFO    MainThread:9844 [wandb_run.py:_footer_sync_info():3261] logging synced files
+2022-08-26 15:06:32,774 INFO    MainThread:9844 [wandb_init.py:init():548] starting backend
+2022-08-26 15:06:32,774 INFO    MainThread:9844 [wandb_init.py:init():552] setting up manager
+2022-08-26 15:06:32,779 INFO    MainThread:9844 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2022-08-26 15:06:32,784 INFO    MainThread:9844 [wandb_init.py:init():558] backend started and connected
+2022-08-26 15:06:32,797 INFO    MainThread:9844 [wandb_run.py:_label_probe_notebook():1105] probe notebook
+2022-08-26 15:06:32,797 INFO    MainThread:9844 [wandb_run.py:_label_probe_notebook():1115] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2022-08-26 15:06:32,797 INFO    MainThread:9844 [wandb_init.py:init():636] updated telemetry
+2022-08-26 15:06:32,838 INFO    MainThread:9844 [wandb_init.py:init():667] communicating run to backend with 30 second timeout
